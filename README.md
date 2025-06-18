@@ -11,7 +11,7 @@ Open your Python editor of choice or a terminal windows and navigate to **C:\Dow
 
 The script will detect the directory and create a new folder called **unzipped** (if it doesn't already exist). 
 
-The script will iterate through the directory and unzip all the ZIP files it finds in the directory (**C:\Downloads\ZIPs**) and put all the contents in unzipped.
+The script will iterate through the directory and unzip all the ZIP files it finds in the directory (**C:\Downloads\ZIPs**) and put all the contents in the **unzipped** directory (**C:\Downloads\ZIPs\unzipped**).
 
 It will NOT create sub folders for each zip file, just all the contents in **C:\Downloads\ZIPs\unzipped**.
 
